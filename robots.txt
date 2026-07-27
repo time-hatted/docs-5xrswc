@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-de2oev.hartawin.online/sitemap.xml
